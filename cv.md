@@ -1,3 +1,3 @@
 # Yauheni
 
-## Kontacts
+## Contacts

@@ -122,6 +122,8 @@ public class Kata
 ---
 ## Language Skills
 
+![Failed to show the image.](assets/images/det.png)
+
 + **English:** B2 (Advanced Mid) (Duolingo English Test: Overall score 115)
 + **Belarusian:** C1 (Advanced)
 + **Russian:** C2 (Proficiency)

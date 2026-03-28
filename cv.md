@@ -3,7 +3,6 @@
 ---
 ## Contact Information
 
-* **Phone:** +375-44-000-00-00
 * **E-mail:** evgine279@gmail.com
 * **Discord:** yauheni_silkou
 * **Telegram:** yauheni_silkou

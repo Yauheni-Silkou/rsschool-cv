@@ -25,7 +25,8 @@ h2 {
 	display: flex;
 }
 
-h1, .sub-header {
+h1,
+.sub-header {
 	font-family: "Prosto One", sans-serif;
 	font-weight: bold;
 	color: white;
@@ -45,7 +46,10 @@ li {
 	margin: 20px 20px 20px 45px;
 }
 
-nav, header, main, footer {
+nav,
+header,
+main,
+footer {
 	max-width: 1440px;
 	margin: 0 auto;
 }
@@ -103,7 +107,11 @@ header {
 	color: black;
 }
 
-.section-image-container, .section-header, .section-header-decor, .section-separator-top, .section-separator-bottom {
+.section-image-container,
+.section-header,
+.section-header-decor,
+.section-separator-top,
+.section-separator-bottom {
 	background-color: #0174EC;
 }
 
@@ -123,7 +131,8 @@ header {
 	height: 56px;
 }
 
-.section-separator-top, .section-separator-bottom {
+.section-separator-top,
+.section-separator-bottom {
 	height: 2px;
 	margin: 5px 25px;
 	padding: 0;

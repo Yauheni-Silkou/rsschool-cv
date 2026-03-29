@@ -185,6 +185,30 @@ header {
 	width: 490px;
 }
 
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 10px;
+  padding: 10px;
+}
+
+.project-card {
+  background: #000000;
+  border: 1px solid #DADADA;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.project-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.project-info {
+  padding: 15px;
+}
+
 footer {
     color: white;
     background-color: #0174EC;

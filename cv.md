@@ -103,7 +103,7 @@ public class Kata
 
     Diploma of Higher Education (Mogilev, June 30, 2017)
 
-    *Graduation thesis: "Products Costing Automated Information Processing Systems of the “BELAZ” Opened Joint-Stock Company Branch - S. M. Kirov Mogilev Automobile Plant". (A)*
+    *Graduation thesis: "Products Costing Automated Information Processing Systems of the “BELAZ” Opened Joint-Stock Company Branch - S. M. Kirov Mogilev Automobile Plant. (A)*
 
 ---
 ## Language Skills
@@ -113,3 +113,11 @@ public class Kata
 + **English:** B2 (Advanced Mid) (Duolingo English Test: Overall score 115)
 + **Belarusian:** C1 (Advanced)
 + **Russian:** C2 (Proficiency)
+
+---
+## Projects
+
+* **CV (Markdown / HTML / CSS)** (https://Yauheni-Silkou.github.io/rsschool-cv/)
+* **Calculator (WPF, C#)** (https://github.com/Yauheni-Silkou/Calculator.git)
+* **ActiveControlApp (WPF, MVVM)** (https://github.com/Yauheni-Silkou/ActivityControlApp.git)
+* **FilmoSearch Portal (ASP.NET Web API)** (https://github.com/Yauheni-Silkou/FilmoSearchPortal.git)

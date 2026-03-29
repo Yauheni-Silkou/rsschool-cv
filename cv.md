@@ -3,7 +3,6 @@
 ---
 ## Contact Information
 
-* **Phone:** +375-44-000-00-00
 * **E-mail:** evgine279@gmail.com
 * **Discord:** yauheni_silkou
 * **Telegram:** yauheni_silkou
@@ -84,40 +83,27 @@ public class Kata
 ```
 
 ---
-## Job Experience
-
-* **Assistant**
-
-    Department of Automated Control Systems, Electrical Engineering Faculty
-
-    Belarusian-Russian University
-
-    2018 – 2021
-
-    * Conducting seminars, practical classes, laboratory works, supporting coursework for first-year students.
-    * Conducting classes in the disciplines: Informatics, Expert Systems, Databases and Data Banks, Modern Programming Systems, Mathematical Models of Information Processes and Management, System Modeling.
-    * Supervisor of 1st year students of Electrical Engineering Faculty.
-    * Development and compilation of methodological recommendations for laboratory work to prepare students in the program 'Biotechnical Systems and Technologies.'
-
----
 ## Education
 
 * **Master of Sciences in Engineering**
 
-    Belarusian-Russian University
+    **Specialized in:** System Analysis, Management and Information Processing
 
-    2017 – 2018
+    Belarusian-Russian University (2017 - 2018)
+
+    Master's Degree Diploma (Mogilev, June 28, 2018)
+
+    *Master's thesis: "Development and Research of Technology for Increasing the Speed of Data Exchange in the Network Version of the Basic Simulation Model of the Production Activity of the Enterprise" (A) (60 pages).*
+
+* **Information Technology Engineer**
 
     **Specialized in:** Automated Information Processing Systems
 
-* **Higher education. Qualification: Information Technology Engineer**
+    Belarusian-Russian University (2012 - 2017)
 
-    Belarusian-Russian University
+    Diploma of Higher Education (Mogilev, June 30, 2017)
 
-    2012 – 2017
-
-    **Specialized in:** System Analysis, Management and Information Processing
-
+    *Graduation thesis: "Products Costing Automated Information Processing Systems of the “BELAZ” Opened Joint-Stock Company Branch - S. M. Kirov Mogilev Automobile Plant. (A)*
 
 ---
 ## Language Skills
@@ -127,3 +113,11 @@ public class Kata
 + **English:** B2 (Advanced Mid) (Duolingo English Test: Overall score 115)
 + **Belarusian:** C1 (Advanced)
 + **Russian:** C2 (Proficiency)
+
+---
+## Projects
+
+* **CV (Markdown / HTML / CSS)** (https://Yauheni-Silkou.github.io/rsschool-cv/)
+* **Calculator (WPF, C#)** (https://github.com/Yauheni-Silkou/Calculator.git)
+* **ActiveControlApp (WPF, MVVM)** (https://github.com/Yauheni-Silkou/ActivityControlApp.git)
+* **FilmoSearch Portal (ASP.NET Web API)** (https://github.com/Yauheni-Silkou/FilmoSearchPortal.git)

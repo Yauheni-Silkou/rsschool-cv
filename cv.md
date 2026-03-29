@@ -83,22 +83,6 @@ public class Kata
 ```
 
 ---
-## Job Experience
-
-* **Assistant**
-
-    Department of Automated Control Systems, Electrical Engineering Faculty
-
-    Belarusian-Russian University
-
-    2018 – 2021
-
-    * Conducting seminars, practical classes, laboratory works, supporting coursework for first-year students.
-    * Conducting classes in the disciplines: Informatics, Expert Systems, Databases and Data Banks, Modern Programming Systems, Mathematical Models of Information Processes and Management, System Modeling.
-    * Supervisor of 1st year students of Electrical Engineering Faculty.
-    * Development and compilation of methodological recommendations for laboratory work to prepare students in the program 'Biotechnical Systems and Technologies.'
-
----
 ## Education
 
 * **Master of Sciences in Engineering**

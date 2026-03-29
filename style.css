@@ -31,8 +31,18 @@ h1, .sub-header {
 	color: white;
 }
 
+.icon-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
 li {
 	margin-bottom: 20px;
+}
+
+.sub-ul {
+	margin: 20px 20px 20px 45px;
 }
 
 nav, header, main, footer {
@@ -148,12 +158,6 @@ header {
 	margin-bottom: 130px;
 }
 
-.icon-list {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-
 .link-icon {
 	width: 24px;
 	height: 24px;
@@ -167,6 +171,10 @@ header {
 	padding: 0;
 	margin: 0;
 	width: 100%;
+}
+
+.horizontal-list li {
+	text-align: center;
 }
 
 .about-me-photo {

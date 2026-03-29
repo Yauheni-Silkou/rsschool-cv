@@ -226,6 +226,61 @@
 				</div>
             </section>
             <section id="code-sample">
+				<div class="section-separator-top"></div>
+				<div class="section-header-container">
+					<div class="section-image-container">
+						<img class="section-image" src="assets/images/icons/ico128-code.png" alt="code">
+					</div>
+					<h2 class="section-header">Code Sample</h2>
+					<p class="section-header-decor"></p>
+					<p class="section-header-decor"></p>
+					<p class="section-header-decor"></p>
+				</div>
+				<div class="section-separator-bottom"></div>
+				<div class="section-content">
+					<div class="code-sample-task">
+						<p><i>Given an array of integers.</i></p>
+						<p><i>Return an array, where the first element is the count of positives numbers and the second element is sum of negative numbers. 0 is neither positive nor negative.</i></p>
+						<p><i>If the input is an empty array or is null, return an empty array.</i></p>
+					</div>
+					<div class="section-text">
+						<pre><code>using System;
+using System.Collections.Generic;
+using System.Linq;
+
+public class Kata
+{
+    public static int[] CountPositivesSumNegatives(int[] input)
+    {
+        int[] result;
+        if (input is null || input.Length == 0)
+        {
+            result = new int[] {};
+        }
+        else
+        {
+            int pos = 0, neg = 0;
+            for (int i = 0; i &lt; input.Length; i++)
+            {
+                int x = input[i];
+                if (x > 0)
+                {
+                    pos++;
+                }
+                else if (x &lt; 0)
+                {
+                    neg += x;
+                }
+            }
+
+            result = new int[2] { pos, neg };
+        }
+
+        return result;
+    }
+}</code></pre>
+					</div>
+				</div>
             </section>
         </main>
         <footer>

@@ -209,6 +209,26 @@ header {
   padding: 15px;
 }
 
+.code-sample-task {
+	float: left;
+	margin-right: 20px;
+	width: 20%;
+}
+
+#code-sample i {
+    font-family: "Handlee", cursive;
+    font-size: 1.6rem;
+}
+
+#code-sample code {
+    font-family: "Sono", monospace;
+	background-color: lightgray;
+	color: black;
+	display: block;
+	padding: 25px;
+	margin: 10px 0;
+}
+
 footer {
     color: white;
     background-color: #0174EC;

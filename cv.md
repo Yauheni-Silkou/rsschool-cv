@@ -87,20 +87,23 @@ public class Kata
 
 * **Master of Sciences in Engineering**
 
-    Belarusian-Russian University
+    **Specialized in:** System Analysis, Management and Information Processing
 
-    2017 – 2018
+    Belarusian-Russian University (2017 - 2018)
+
+    Master's Degree Diploma (Mogilev, June 28, 2018)
+
+    *Master's thesis: "Development and Research of Technology for Increasing the Speed of Data Exchange in the Network Version of the Basic Simulation Model of the Production Activity of the Enterprise" (A) (60 pages).*
+
+* **Information Technology Engineer**
 
     **Specialized in:** Automated Information Processing Systems
 
-* **Higher education. Qualification: Information Technology Engineer**
+    Belarusian-Russian University (2012 - 2017)
 
-    Belarusian-Russian University
+    Diploma of Higher Education (Mogilev, June 30, 2017)
 
-    2012 – 2017
-
-    **Specialized in:** System Analysis, Management and Information Processing
-
+    *Graduation thesis: "Products Costing Automated Information Processing Systems of the “BELAZ” Opened Joint-Stock Company Branch - S. M. Kirov Mogilev Automobile Plant". (A)*
 
 ---
 ## Language Skills

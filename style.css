@@ -4,6 +4,10 @@
   padding: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: #121212;
   color: #e0e0e0;
@@ -275,7 +279,7 @@ section {
 
 .project-card img {
   width: 100%;
-  height: 180px;
+  height: 260px;
   object-fit: cover;
   border-bottom: 1px solid #262626;
 }
